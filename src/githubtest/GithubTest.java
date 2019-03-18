@@ -18,7 +18,7 @@ public class GithubTest {
         // TODO code application logic here
         
         //vazw sxolia
-        System.out.println(" "); 
+        System.out.println("change"); 
         
     }
     
